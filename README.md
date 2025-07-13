@@ -92,6 +92,7 @@ Example `.env`:
 PORT=3333
 DATABASE_URL="postgresql://docker:docker@localhost:5432/agents"
 GEMINI_API_KEY="your-gemini-api-key"
+
 ---
 
 ## Main Dependencies
